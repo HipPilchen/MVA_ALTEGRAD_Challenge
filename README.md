@@ -25,5 +25,8 @@ This project is developed for the course "Advanced Learning for Text and Graph D
    ```
    python f_during_train.py -loss_type lifted_structured_loss -init_bs 80 -final_bs 210 -n_ep_update 2 -conv_layer ChebConv -lr 3e-5
    ```
+### Acknowledgments
+
+This project is developed as part of the "Advanced Learning for Text and Graph Data" course. Special thanks to the instructors who designed the dataset and provided several starting files such as the dataloader.
 
 For any inquiries or issues, please contact Lucas Gascon, Hippolyte Pilchen or Pierre Fihey at (forename).(name)@polytechnique.edu
