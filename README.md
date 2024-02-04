@@ -1,4 +1,4 @@
-## ALTEGRAD - Advanced Learning for Text and Graph Data ()
+## ALTEGRAD - Advanced Learning for Text and Graph Data 
 
 ### Project Description
 
@@ -22,9 +22,8 @@ This project is developed for the course "Advanced Learning for Text and Graph D
 
 1. Run `f_during_train.py` for training the model (all the argument are available in the parser function):
 
-   ```bash
-  python f_during_train.py -loss_type lifted_structured_loss -init_bs 80 -final_bs 210 -n_ep_update 2 -conv_layer ChebConv -lr 3e-5
+   ```
+   python f_during_train.py -loss_type lifted_structured_loss -init_bs 80 -final_bs 210 -n_ep_update 2 -conv_layer ChebConv -lr 3e-5
+   ```
 
-
-
-For any inquiries or issues, please contact Lucas Gascon, Hippolyte Pilchen or Pierre Fihey at <forename>.<name>@polytechnique.edu
+For any inquiries or issues, please contact Lucas Gascon, Hippolyte Pilchen or Pierre Fihey at (forename).(name)@polytechnique.edu
